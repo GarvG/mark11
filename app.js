@@ -38,7 +38,7 @@ if(sum&&date)
 }
 else
 {
-    output.innerText="Please enter both the Fields"
+    output.innerText="Please enter both the Fields";
 }
 
 
